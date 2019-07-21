@@ -9,4 +9,4 @@
     <a href="/total_images_one_face.png"></a>
 </figure>
 
-### Explanation [here](https://soniajoseph.github.io/machine%20learning/collabrepresentationclassification/).
+### Contains a notebook with algorithm implemented from scratch. Explanation [here](https://soniajoseph.github.io/machine%20learning/collabrepresentationclassification/).
